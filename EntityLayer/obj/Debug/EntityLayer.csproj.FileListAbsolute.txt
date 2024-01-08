@@ -1,0 +1,6 @@
+C:\Programmin works\C# uygulama geliştirerek\NKatmanlıMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Programmin works\C# uygulama geliştirerek\NKatmanlıMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Programmin works\C# uygulama geliştirerek\NKatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Programmin works\C# uygulama geliştirerek\NKatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# uygulama geliştirerek\NKatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Programmin works\C# uygulama geliştirerek\NKatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.pdb
